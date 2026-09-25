@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/32656993/README.md)
 # Samuel PC Assistant — Version 2.1.0
 
 Samuel is an open-source desktop voice-assistant starter project for Windows and macOS.
 
-[![Tests](https://github.com/samuel-oyetunj/samuel-pc-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/samuel-oyetunj/samuel-pc-assistant/actions/workflows/tests.yml)
+[![Tests](https://github.com/YOUR_GITHUB_USERNAME/samuel-pc-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/samuel-pc-assistant/actions/workflows/tests.yml)
+
+> Before publishing, replace `YOUR_GITHUB_USERNAME` in the badge above with your GitHub username.
 
 ## What this version can do
 
