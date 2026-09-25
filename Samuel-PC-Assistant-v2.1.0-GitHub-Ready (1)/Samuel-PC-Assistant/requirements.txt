@@ -1,0 +1,8 @@
+pyttsx3>=2.98,<3
+SpeechRecognition>=3.14,<4
+sounddevice>=0.5,<1
+numpy>=2.0,<3
+Pillow>=11,<13
+pystray>=0.19,<1
+pywinauto>=0.6.9,<1; sys_platform == "win32"
+pyobjc-framework-Quartz>=11,<13; sys_platform == "darwin"
